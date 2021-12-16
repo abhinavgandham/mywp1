@@ -54,7 +54,7 @@ h1 {
 
 h2 {
   font-size: 4rem;
-  color: #fff;
+  color: var(--color-headings);
 }
 
 h3 {
@@ -616,7 +616,8 @@ a {
 
 .block__header {
   text-align: center;
-  color: #fff;
+  color: #918ca4;
+  margin-bottom: 4rem;
 }
 
 .block__heading {
